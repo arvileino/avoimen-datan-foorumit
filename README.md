@@ -2,12 +2,6 @@
 
 Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia foorumeita
 
-## Suomidigi
-
-[Kehittäjäfoorumi](https://suomidigi.fi/kehittajafoorumi/)
-
-[Kehittäjäfoorumi, Data ja avoin data](https://suomidigi.fi/kehittajafoorumi/data-ja-avoin-data)
-
 ## Facebook
 
 ### Yleiset
