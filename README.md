@@ -1,6 +1,22 @@
 # Avoimen datan foorumit
 
-Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia foorumeita
+Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia foorumeita ja kanavia
+
+## Twitter
+
+[Lounaistieto](https://twitter.com/lounaistieto)
+
+[Open Turku](https://twitter.com/openturku)
+
+## Meetabit
+
+[Open Data Turku](https://meetabit.com/communities/open-data-southwest-finland)
+
+[Turku Dev Lunch](https://meetabit.com/communities/turku-dev-lunch)
+
+## Meetup
+
+[Open Data Southwest Finland](https://www.meetup.com/Open-Data-Southwest-Finland)
 
 ## Facebook
 
@@ -24,6 +40,8 @@ Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia
 [AvoinHäme](https://www.facebook.com/avoinhame/)
 
 [Helsinki Loves Developers](https://www.facebook.com/groups/heldev/)
+
+[Lounaistieto](https://www.facebook.com/lounaistieto)
 
 [Open Data Häme](https://www.facebook.com/groups/OpenHame/)
 
