@@ -55,11 +55,11 @@ Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia
 
 [Open Data Lahti](https://www.facebook.com/groups/400316826750465/) P
 
-[Open Data Lapland](https://www.facebook.com/groups/opendatalapland/)
+[Open Data Lapland](https://www.facebook.com/groups/opendatalapland/) P
 
 [Open Data Lappeenranta](https://www.facebook.com/groups/372322899535343/) P
 
-[Open Data Oulu](https://www.facebook.com/groups/opendataoulu/)
+[Open Data Oulu](https://www.facebook.com/groups/opendataoulu/) P
 
 [Open Data Pori](https://www.facebook.com/groups/opendatapori/)
 
