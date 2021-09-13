@@ -2,21 +2,15 @@
 
 Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia foorumeita ja kanavia
 
-## Twitter
+## Matrix-keskustelukanava
 
-[Lounaistieto](https://twitter.com/lounaistieto)
+[Hacklab Avoin data](https://matrix.to/#/#general:hacklab.fi)
+
+## Twitter
 
 [Open Turku](https://twitter.com/openturku)
 
-## Meetabit
-
-[Open Data Turku](https://meetabit.com/communities/open-data-southwest-finland)
-
-[Turku Dev Lunch](https://meetabit.com/communities/turku-dev-lunch)
-
-## Meetup
-
-[Open Data Southwest Finland](https://www.meetup.com/Open-Data-Southwest-Finland)
+[Lounaistieto](https://twitter.com/lounaistieto)
 
 ## Facebook
 
