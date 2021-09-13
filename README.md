@@ -6,6 +6,10 @@ Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia
 
 [Hacklab Avoin data](https://matrix.to/#/#general:hacklab.fi)
 
+## Meetup
+
+[Open Data Finland](https://www.meetup.com/Open-Data-Finland/)
+
 ## Twitter
 
 [Open Turku](https://twitter.com/openturku)
@@ -34,6 +38,8 @@ Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia
 [AvoinHäme](https://www.facebook.com/avoinhame/)
 
 [Helsinki Loves Developers](https://www.facebook.com/groups/heldev/)
+
+[Helsinki Region Infoshare](http://www.facebook.com/helsinkiregioninfoshare)
 
 [Lounaistieto](https://www.facebook.com/lounaistieto)
 
