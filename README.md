@@ -63,7 +63,7 @@ Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia
 
 [Open Data Pori](https://www.facebook.com/groups/opendatapori/)
 
-[Open Data Tampere](https://www.facebook.com/groups/opendatatre/)
+[Open Data Tampere](https://www.facebook.com/groups/opendatatre/) P
 
 [Open Data Turku](https://www.facebook.com/groups/opendatatku/)
 
