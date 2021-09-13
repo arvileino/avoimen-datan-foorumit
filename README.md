@@ -4,7 +4,7 @@ Suomenkielisiä avoimen dataan ja siihen läheisesti liittyviä kaikille avoimia
 
 ## Matrix-keskustelukanava
 
-[Hacklab Avoin data](https://matrix.to/#/#general:hacklab.fi)
+[Hacklab Avoin data](https://matrix.to/#/##avoindata:hacklab.fi)
 
 ## Meetup
 
